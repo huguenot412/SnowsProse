@@ -1,0 +1,7 @@
+#header {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.69), rgba(0, 0, 0, 0.69)), url(/resources/images/pen-fountain-pen-ink-gold-writing.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
